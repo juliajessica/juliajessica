@@ -306,8 +306,7 @@ figure {
 		font-size: 15px;
 		text-align: center;
 		font-weight: 400;
-		// color: rgba(0,0,0,.5);
-		color: black;
+		color: rgba(0,0,0,.5);
 		padding: 0 20px;
 		width: 100%;
 		@media screen and (max-width: $screen-sm) {
@@ -325,8 +324,10 @@ figure {
 				margin: 0;
 				display: inline;
 				list-style: none;
+				color: black;
 				a {
 					color: rgba(255,255,255,.3);
+					// color: black;
 					padding: 4px;
 					&:hover, &:active, &:focus {
 						text-decoration: none;
