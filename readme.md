@@ -16,7 +16,7 @@ _Feel free to email me at [juliajessicasher@gmail.com](mailto:juliajessicasher@g
 ## <span style="color:#74875d;">Technologies Used</span>
 
 | Frontend Dependencies |
-| :------------ | :------------- |
+| :------------ |
 | Webpack, CSS(Sass), Bootstrap, and JavaScript |
 
 ### <span style="color:#74875d;">License</span>
