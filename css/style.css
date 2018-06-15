@@ -28,7 +28,7 @@ a {
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #b8bf9a;
+    color: #30a399;
     outline: none;
     text-decoration: none !important; }
 
@@ -216,12 +216,13 @@ figure {
         list-style: none; }
         #colorlib-aside .colorlib-footer ul li a {
           /*color: rgba(255, 255, 255, 0.3);*/
-          color:#fabf40;
+          /*color:#fabf40;*/
+          color: black;
           padding: 4px; }
           #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
             text-decoration: none;
             outline: none;
-            /*color: #2c98f0;*/
+            color: rgb(250, 191, 64);
           }
 
 .container-wrap {
@@ -815,8 +816,14 @@ body.offcanvas {
     background: #4054b2; }
     .progress-bar.color-6:after {
       background: #4054b2; }
-    .progress-bar.color-6 span {
-      color: #4054b2; }
+      .progress-bar.color-6 span {
+        color: #4054b2; }
+  .progress-bar.color-7 {
+    background: #5dcc9e; }
+    .progress-bar.color-7:after {
+      background: #5dcc9e; }
+        .progress-bar.color-7 span {
+          color: #5dcc9e; }
 
 .colorlib-feature {
   text-align: left;
@@ -951,7 +958,8 @@ body.offcanvas {
     bottom: 0;
     left: 0;
     right: 0;
-    background: #2c98f0;
+    background: linear-gradient(to top, rgba(236, 84, 83, 1), rgba(242, 150, 150, 1));
+    /*background: #2c98f0;*/
     opacity: 0;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
