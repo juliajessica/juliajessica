@@ -307,6 +307,7 @@ figure {
 		text-align: center;
 		font-weight: 400;
 		color: rgba(0,0,0,.5);
+		color: black;
 		padding: 0 20px;
 		width: 100%;
 		@media screen and (max-width: $screen-sm) {
@@ -468,7 +469,8 @@ figure {
 					font-size: 12px;
 					text-transform: uppercase;
 					letter-spacing: 2px;
-					color: $brand-black;
+					// color: $brand-black;
+					color: $brand-white;
 					padding: 10px 15px !important;
 					border: none;
 					font-weight: 400;

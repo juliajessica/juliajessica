@@ -28,7 +28,7 @@ a {
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #2c98f0;
+    color: #b8bf9a;
     outline: none;
     text-decoration: none !important; }
 
@@ -216,7 +216,7 @@ figure {
         list-style: none; }
         #colorlib-aside .colorlib-footer ul li a {
           /*color: rgba(255, 255, 255, 0.3);*/
-          color:#b8bf9a;
+          color:#fabf40;
           padding: 4px; }
           #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
             text-decoration: none;
@@ -302,7 +302,7 @@ figure {
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1, #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
-          color: black;
+          color: white;
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin-bottom: 20px;
@@ -320,7 +320,8 @@ figure {
           font-family: "Quicksand", Arial, sans-serif; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 a {
             color: rgba(44, 152, 240, 0.8);
-            border-bottom: 1px solid rgba(44, 152, 240, 0.7); }
+            border-bottom: 1px solid rgba(44, 152, 240, 0.7);
+          }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner .heading-section {
           font-size: 50px; }
           @media screen and (max-width: 768px) {
@@ -341,8 +342,8 @@ figure {
           border: none;
           font-weight: 400; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
-            color: #000;
-            border: 1px solid #000;
+            color: white;
+            border: 1px solid white;
             background: transparent !important; }
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
               background: transparent !important;
