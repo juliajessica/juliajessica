@@ -24,7 +24,10 @@ _Feel free to email me at [juliajessicasher@gmail.com](mailto:juliajessicasher@g
 
 | Frontend Dependencies |
 | :------------ |
-| * Webpack * CSS(Sass) * Bootstrap * JavaScript |
+| Webpack |
+| CSS(Sass) |
+| Bootstrap |
+| JavaScript (JQuery) |
 
 ### <span style="color:#74875d;">License</span>
 
