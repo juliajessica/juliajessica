@@ -7,6 +7,8 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
+## View Live portfolio application: https://juliajessica.github.io/juliajessica/
+
 ## <span style="color:#74875d;">Description</span>
 
 _This webpage application is designed to share my virtual portfolio of experience, work, and skills learned as a UI/UX Frontend Student._
