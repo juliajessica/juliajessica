@@ -742,7 +742,9 @@ body.offcanvas {
 .progress-wrap h3 {
   font-size: 16px;
   font-family: "Quicksand", Arial, sans-serif;
-  margin-bottom: 10px; }
+  margin-bottom: 10px;
+  padding-bottom: 11px;
+}
 
 .progress {
   height: 6px;
