@@ -7,7 +7,12 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
-## View Live portfolio application: https://juliajessica.github.io/juliajessica/
+#### View Live portfolio application: https://juliajessica.github.io/juliajessica/
+
+## Application
+| Profile Introduction | Skills | Projects |
+| :--------- | :--------- | :--------- |
+| ![Application Homepage](images/home.png) | ![Julia Sheremet Skills](images/skills.png) |![Julia Sheremet Projects](images/projects.png) |
 
 ## <span style="color:#74875d;">Description</span>
 
